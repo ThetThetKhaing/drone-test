@@ -2,4 +2,4 @@ def sum(a, b):
     return a + b
 
 
-print(sum(8, 7))
+print(sum(8, 3))
